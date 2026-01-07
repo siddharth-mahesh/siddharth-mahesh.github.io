@@ -2,10 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
-Graduate Research Assistant
-Department of Physics and Astronomy
-West Virginia University 
+subtitle: Graduate Research Assistant | Department of Physics and Astronomy | West Virginia University 
 profile:
   align: right
   image: prof_pic.jpg
